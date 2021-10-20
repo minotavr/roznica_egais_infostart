@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="352b7346-9c82-4375-b7d8-82da005663ac">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СтатусыПроверкиИПодбораИС" category="Ref">
+				<xr:TypeId>88a97364-0889-4c14-9e34-a6342b5424b8</xr:TypeId>
+				<xr:ValueId>c954b487-6b84-438a-8c0b-dd41c6bea800</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СтатусыПроверкиИПодбораИС" category="Manager">
+				<xr:TypeId>11b6b5ae-8235-4d7a-bfba-4f26ebe36dfd</xr:TypeId>
+				<xr:ValueId>8f627414-82cf-4e5d-9b27-be0d65b52e9e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СтатусыПроверкиИПодбораИС" category="List">
+				<xr:TypeId>4d0bb9fe-848a-4b1d-9d6a-3f67a2172101</xr:TypeId>
+				<xr:ValueId>0ec3617c-ef40-4b6d-b88d-6c932cc229a9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СтатусыПроверкиИПодбораИС</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>

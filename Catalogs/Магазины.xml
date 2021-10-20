@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="1f184748-1542-411c-a563-edb466c162ba">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Магазины" category="Object">
+				<xr:TypeId>d12f9738-625e-427d-9c78-4e92b8d3ba25</xr:TypeId>
+				<xr:ValueId>c2536151-7cd5-46a7-beae-459dabc3a46a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Магазины" category="Ref">
+				<xr:TypeId>3f2b0ef2-0982-4943-ac87-6bf0c5e7885f</xr:TypeId>
+				<xr:ValueId>a6facc7e-0df1-4520-9dff-ba3c1a287f0e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Магазины" category="Selection">
+				<xr:TypeId>d47c603f-469b-4bee-95cf-46e703b2f047</xr:TypeId>
+				<xr:ValueId>7cbdbb26-d87d-46d5-8657-fe1d6a67d714</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Магазины" category="List">
+				<xr:TypeId>bb2f3223-7cc3-4df9-b3f3-edf1d6330515</xr:TypeId>
+				<xr:ValueId>3ac054a6-d51a-4ee8-9b0b-af89738ac7a9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Магазины" category="Manager">
+				<xr:TypeId>cddb447d-366a-4c8c-a918-5bb9d7e619ff</xr:TypeId>
+				<xr:ValueId>1aef9c37-600b-4fad-bbc9-0610e7628e46</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Магазины</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="224ab6b1-cec4-4518-b682-01600dccdd0d">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПравилоЦенообразования</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ПравилаЦенообразования</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

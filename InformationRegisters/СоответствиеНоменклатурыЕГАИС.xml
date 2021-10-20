@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<InformationRegister uuid="772a3e13-b4d5-4c5f-b446-3da6a79cfa23">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.СоответствиеНоменклатурыЕГАИС" category="Record">
+				<xr:TypeId>ca60b9e6-acba-47fe-88ee-45e7eef115b4</xr:TypeId>
+				<xr:ValueId>cf1b6b21-718c-4e77-aba6-c4e28c0bc636</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.СоответствиеНоменклатурыЕГАИС" category="Manager">
+				<xr:TypeId>1151c1b6-8447-4d6c-a897-0d1bbd7154cf</xr:TypeId>
+				<xr:ValueId>91cf2e0c-9ae2-429b-bd10-637a783d826e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.СоответствиеНоменклатурыЕГАИС" category="Selection">
+				<xr:TypeId>0fe892e5-8663-4d6b-9a75-72d6ac1aaa64</xr:TypeId>
+				<xr:ValueId>953538a4-1fe1-4fe4-9985-6dfb77cb0c7e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.СоответствиеНоменклатурыЕГАИС" category="List">
+				<xr:TypeId>2ce0425b-720b-4ef0-a6f1-5c483eda93c7</xr:TypeId>
+				<xr:ValueId>13f7db25-7a3b-429d-af10-f7a78c203d5a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.СоответствиеНоменклатурыЕГАИС" category="RecordSet">
+				<xr:TypeId>956f13be-7df6-4450-83a7-f0d4120269f8</xr:TypeId>
+				<xr:ValueId>fcc9c67c-0141-4d4f-bb9b-10e2f61bbece</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.СоответствиеНоменклатурыЕГАИС" category="RecordKey">
+				<xr:TypeId>6821c23c-282b-4626-9717-ae040ceeeb02</xr:TypeId>
+				<xr:ValueId>595165c1-a8c8-428d-8f61-8819d03b6f7c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.СоответствиеНоменклатурыЕГАИС" category="RecordManager">
+				<xr:TypeId>a911e205-362d-43b7-b4ae-8d237282e386</xr:TypeId>
+				<xr:ValueId>5d1043c4-a954-4f7c-a11a-30a86fd951dc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СоответствиеНоменклатурыЕГАИС</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Dimension uuid="f12d483a-702f-405d-8ac3-5f2d3baf7085">
+				<InternalInfo/>
+				<Properties>
+					<Name>Номенклатура</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.Номенклатура</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="71819eed-157f-4f80-930e-bb75ac475f61">
+				<InternalInfo/>
+				<Properties>
+					<Name>Характеристика</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.ХарактеристикаНоменклатуры</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="a51db9e1-e912-48fe-8af8-290684668ff0">
+				<InternalInfo/>
+				<Properties>
+					<Name>АлкогольнаяПродукция</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.КлассификаторАлкогольнойПродукцииЕГАИС</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="55c03cbf-5d40-4224-b9fe-75c1ac66ecb1">
+				<InternalInfo/>
+				<Properties>
+					<Name>Серия</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.СерияНоменклатуры</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="500d0bb5-da83-4906-8a65-5aaa6b28d320">
+				<InternalInfo/>
+				<Properties>
+					<Name>Справка2</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Справки2ЕГАИС</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="c4333f39-1426-4454-85d7-065e5b08dba9">
+				<InternalInfo/>
+				<Properties>
+					<Name>ИдентификаторУпаковки</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type/>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

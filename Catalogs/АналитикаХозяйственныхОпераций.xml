@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="9ef1e290-3ad0-4002-a4d6-edd2d04ad513">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.АналитикаХозяйственныхОпераций" category="Object">
+				<xr:TypeId>30251a50-ac81-4b68-8004-6daa6c8afb55</xr:TypeId>
+				<xr:ValueId>b5986c0f-1212-4db4-9c2f-0b8b52666ca8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.АналитикаХозяйственныхОпераций" category="Ref">
+				<xr:TypeId>21fa3d1a-62ca-4e33-986b-01993eba47aa</xr:TypeId>
+				<xr:ValueId>f9b786a8-224d-4a3f-aad5-1af9e295f6cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.АналитикаХозяйственныхОпераций" category="Selection">
+				<xr:TypeId>d95db966-588d-4ffb-944e-9760bc7716d6</xr:TypeId>
+				<xr:ValueId>4f5f4de1-7bef-4dc5-9cb3-4311c0d296a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.АналитикаХозяйственныхОпераций" category="List">
+				<xr:TypeId>620c1c4e-8ec8-48eb-87b9-7c5de9c099f8</xr:TypeId>
+				<xr:ValueId>1f581925-f031-4453-8ced-14c25910e34d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.АналитикаХозяйственныхОпераций" category="Manager">
+				<xr:TypeId>ddf29fa2-2a5c-441a-a432-340b3859cadd</xr:TypeId>
+				<xr:ValueId>d3c08e60-01bd-4958-ae6b-621d5b8986ee</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>АналитикаХозяйственныхОпераций</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

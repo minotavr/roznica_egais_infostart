@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.РасшЕГАИС_ОстаткиТорговыйЗалЕГАИС" id="0f8de39d-6a14-43b6-b0fd-bc49771cb76f" configVersion="1f0538ba8aa2fc0480387891b1464824c637317c">
+			<Metadata name="AccumulationRegister.РасшЕГАИС_ОстаткиТорговыйЗалЕГАИС.Resource.Количество" id="362c6d26-46d7-4c06-a901-d605281928d2"/>
+			<Metadata name="AccumulationRegister.РасшЕГАИС_ОстаткиТорговыйЗалЕГАИС.Dimension.АлкогольнаяПродукция" id="6b29d980-f4cf-4385-8cb1-ddaaa53f199e"/>
+			<Metadata name="AccumulationRegister.РасшЕГАИС_ОстаткиТорговыйЗалЕГАИС.Dimension.ОрганизацияЕГАИС" id="8aeddac5-9c2f-4784-b94e-cd2576da12db"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.РасшЕГАИС_ОстаткиТорговыйЗалЕГАИС.ManagerModule" id="0f8de39d-6a14-43b6-b0fd-bc49771cb76f.2" configVersion="bb76adaed2cf9691df076a286363004731169660"/>
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="6ed55033-31c9-40e3-8861-46125d601dc6" configVersion="f797662574ba2a46e76fd4b7b74ff19bbfdab7c9">
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Резерв" id="05ddde86-76c1-4fe6-9912-6906bc9c3079"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="175bef71-bf17-4201-a5f6-26faa689aede"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="3f7b02aa-5e8b-4b6d-85e8-b5447de2df6d"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="8916cdcc-8fc3-4805-8088-43562ab469e8"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Attribute.КодСтроки" id="a124db92-de25-4359-a536-360b9a5c38e7"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Attribute.АналитикаХозяйственнойОперации" id="eff35761-23b9-4c80-91df-4a7d70982c4e"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Характеристика" id="fae7058c-ff06-4af6-ad8b-4b6bbca983c3"/>
+		</Metadata>
+		<Metadata name="Catalog.АналитикаХозяйственныхОпераций" id="9ef1e290-3ad0-4002-a4d6-edd2d04ad513" configVersion="b5c3e2d3e19c648d2de908e074fe20962a0daf15"/>
+		<Metadata name="Catalog.БазовыеЕдиницыИзмерения" id="b27a9bb1-a3d4-443a-8922-19c325e070f5" configVersion="589d4c0269c1f5d147e847de6abcf051b9dbdc1b"/>
+		<Metadata name="Catalog.ВидыАлкогольнойПродукции" id="b7ba7a62-8180-4ade-b7fc-eb23f8a738b9" configVersion="d0aa569c9a1344cfecb7cfb2467ea676caa6173d">
+			<Metadata name="Catalog.ВидыАлкогольнойПродукции.Attribute.Маркируемый" id="7719b5b6-a435-4ee7-b375-7aeef83d9efb"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="6b796c0c-45f9-4302-a176-f51cf2a6c490" configVersion="7a05c8b9a8a71fd962a338cd6e26a04d0a853c67">
+			<Metadata name="Catalog.ВидыНоменклатуры.Attribute.ВидАлкогольнойПродукцииЕГАИС" id="3e602505-82fc-464e-8bc4-f999480da244"/>
+			<Metadata name="Catalog.ВидыНоменклатуры.Attribute.ПродаетсяВРозлив" id="6de99a93-5dae-4de0-8dc3-25afc3beb6b3"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыЦен" id="22ed9840-b348-433d-84bc-e56f08e03eee" configVersion="c3e961cd4f1b533138442bd1f57c17a885e46330"/>
+		<Metadata name="Catalog.КлассификаторАлкогольнойПродукцииЕГАИС" id="d2b77041-54cb-4570-a525-9fec9b6874ca" configVersion="b0509f2e4a28f057213065f6201d59ba9039d05a"/>
+		<Metadata name="Catalog.КлассификаторОрганизацийЕГАИС" id="0162918b-5709-4c05-a515-eb7dda350593" configVersion="cb14870e4b88034faf49429a166f8eefc4925f72">
+			<Metadata name="Catalog.КлассификаторОрганизацийЕГАИС.Attribute.ТорговыйОбъект" id="e879a1fd-bfbb-464e-8e1a-65850a22bf71"/>
+		</Metadata>
+		<Metadata name="Catalog.Магазины" id="1f184748-1542-411c-a563-edb466c162ba" configVersion="94b0e7cafe55d2beb6baace2581ab5b31c97104c">
+			<Metadata name="Catalog.Магазины.Attribute.ПравилоЦенообразования" id="224ab6b1-cec4-4518-b682-01600dccdd0d"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="c84e02e7-91c9-47f0-b0c6-d55f32d8da4a" configVersion="8c943828e2b08fa608cf809807aa2e9503a31ff0">
+			<Metadata name="Catalog.Номенклатура.Attribute.АлкогольнаяПродукция" id="003a9555-13d6-4de9-8a71-9b464b16fdd2"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="5b111354-a1ce-41d3-a133-0f978e89bc4e"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="8f2ac878-e438-4788-bf68-12151ba73750"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидАлкогольнойПродукцииЕГАИС" id="a257b645-48f1-4238-891b-8f4e7d3af6dd"/>
+		</Metadata>
+		<Metadata name="Catalog.Организации" id="73348a6d-bb69-45ad-94aa-af2091612393" configVersion="16ed28a3a7ddb6ce9dba05cb24c0994bdbbc6215"/>
+		<Metadata name="Catalog.ПравилаЦенообразования" id="4cf5fcee-e8d6-4d6d-8508-ff4e4cf866d4" configVersion="0e8169f165236028f094656f369ce494ca9f4fc2">
+			<Metadata name="Catalog.ПравилаЦенообразования.Attribute.ВидЦен" id="d713e41f-73a5-4739-903a-534f711350d9"/>
+		</Metadata>
+		<Metadata name="Catalog.СерииНоменклатуры" id="ca50363f-f65f-4d95-b4c0-29d9c8a9df8e" configVersion="76e0cdde43b3550dba14ea61fcdaac2ad4f69f26"/>
+		<Metadata name="Catalog.Склады" id="bdd56604-2515-4502-b809-17ecaeb212b5" configVersion="85d3989cb3b5248de1c5e6931c0157a14587f5dd">
+			<Metadata name="Catalog.Склады.Attribute.Организация" id="68207d82-b5c7-410a-8d8a-e257b8a79808"/>
+		</Metadata>
+		<Metadata name="Catalog.Справки2ЕГАИС" id="f169cd4c-5316-41ee-b9e0-87c590cee340" configVersion="3413d5324dba0299e180b7922907fef6e31cf0aa"/>
+		<Metadata name="Catalog.УпаковкиНоменклатуры" id="a2397f9b-6e9c-49b2-9252-20347ce764bc" configVersion="7e9d5317132be2d19d70690e12535de0661fc374"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="da01e7b8-b025-4734-abfe-db2dd99cfce6" configVersion="7f8c703416a32acab013f7901f3f41ee2239577f"/>
+		<Metadata name="Catalog.ШтрихкодыУпаковокТоваров" id="77762a91-b09b-4379-a8f9-7a63b3517ecc" configVersion="066ebf5956d438a4110a47394ee72aef57e486cf"/>
+		<Metadata name="ChartOfCharacteristicTypes.ТипыШтрихкодов" id="1893b06c-a298-4e44-ba66-dc5c7baeaeff" configVersion="511c36992237f9c5a6db87b6c2c80dcc7f14fc77"/>
+		<Metadata name="CommonModule.ИнтеграцияЕГАИСРТ" id="5c02f669-5f48-45e1-ae45-cb14f7e204c2" configVersion="2516014900bde161a97889480dd15bb0ea079458"/>
+		<Metadata name="CommonModule.ИнтеграцияЕГАИСРТ.Module" id="5c02f669-5f48-45e1-ae45-cb14f7e204c2.0" configVersion="5774d0bd0931701654828d451810650098796df5"/>
+		<Metadata name="CommonModule.Пользователи" id="61a8a491-2fe8-4d8f-9886-dd55bd37c03a" configVersion="b6cbed02c3ed12040ddf8b313a618bec45036aeb"/>
+		<Metadata name="CommonModule.Пользователи.Module" id="61a8a491-2fe8-4d8f-9886-dd55bd37c03a.0" configVersion="ca28386c27867af98710808fd6888ebe2a6ad585"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="41dc0a15-463f-4e0e-87de-876f871fa950" configVersion="43e0e5adee66f12d44b9b7d7ce57ee9568062b15"/>
+		<Metadata name="CommonPicture.ОжидаетВыполненияГосИС" id="fb43f82b-df5b-4cd4-9ffd-eee89287544f" configVersion="73fe6acc380ff4679b6902b0b0c897c3dbef9a4c"/>
+		<Metadata name="CommonPicture.Отчеты" id="25250de1-a2fd-47c0-8b10-fe15c3404ba8" configVersion="719578a3b699f24122b1653a57d7d08c700d6ad0"/>
+		<Metadata name="Configuration.ЕГАИС" id="d5679dbe-eb39-4867-bd20-652dd2e89663" configVersion="f66eebc1e9185f1f5c8721191653a4034a527cd9"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияЕГАИС" id="7cdf4e78-d303-432c-b670-f314ffd77d0c" configVersion="08c7985913da926a91be8bac90a11b16a0e9d6f0"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияЕГАИС.Form.НастройкиЕГАИС" id="f1e36116-6681-466d-a74a-b7b87a900960" configVersion="5e8accadc05cd01d0238e847b0267954854e64e0"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияЕГАИС.Form.НастройкиЕГАИС.Form" id="f1e36116-6681-466d-a74a-b7b87a900960.0" configVersion="728f1dd12ca03918349ffbce5294c0619510aa21"/>
+		<Metadata name="DataProcessor.РасшЕГАИС_ЗагрузкаНоменклатуры" id="6b79e799-bf43-4380-bc07-007e258a0fee" configVersion="0a13f4cc3063762f02243551cc7d4dfd4464966e"/>
+		<Metadata name="DataProcessor.РасшЕГАИС_ЗагрузкаНоменклатуры.Form.Форма" id="ee50a23d-e17b-4bb7-b052-c774eacbeb33" configVersion="08c9496bb6c22b2f1a1852eb9ce5936516368479"/>
+		<Metadata name="DataProcessor.РасшЕГАИС_ЗагрузкаНоменклатуры.Form.Форма.Form" id="ee50a23d-e17b-4bb7-b052-c774eacbeb33.0" configVersion="2e5f91092095023508b6a11d8f377ec3cac48723"/>
+		<Metadata name="DefinedType.ДенежноеПолеНеотрицательное" id="12ef4701-7a3e-4828-8aa5-c089763a79f1" configVersion="606eba1fb83f1a61224ec19c561b2ed84e478a3f"/>
+		<Metadata name="DefinedType.ДокументыЕГАИС" id="0bcfe4d4-a17b-4ad7-a708-4978eba560f4" configVersion="a09b3c778b2979657843de5c90428cd0497baad3"/>
+		<Metadata name="DefinedType.КоличествоЕГАИС" id="af73be06-d465-4f46-8737-de10aae99d40" configVersion="2ff468d72d8e997446bed3d2f5002a380b226c00"/>
+		<Metadata name="DefinedType.Номенклатура" id="5f471128-970b-4f67-867e-bc8a0b9758e1" configVersion="e855d76821d74bc1fee197775e34478286853fd5"/>
+		<Metadata name="DefinedType.Организация" id="c8560fef-7c75-492e-a9f6-d3510002f05d" configVersion="938634ecbf08abf84be02e130205363e50c98982"/>
+		<Metadata name="DefinedType.ОснованиеАктаСписанияЕГАИС" id="f57b35cc-d6a2-4186-9193-52026b303711" configVersion="162f9d357c16e62ae917b7107dfe7cba7f34afd7"/>
+		<Metadata name="DefinedType.ОснованиеПередачиВРегистр2ЕГАИС" id="f9576861-f829-4bee-9c40-06512bbdf1a2" configVersion="a7cbbccf6ee44cebbbd9282022288fc4bb46e518"/>
+		<Metadata name="DefinedType.ПользователиИС" id="a5e4e580-a3a0-4aa4-acca-575b2e2bd8b9" configVersion="85d7e93d8973272423115ab5e17e6f566bb0f3e9"/>
+		<Metadata name="DefinedType.СерияНоменклатуры" id="253016e5-1c88-43b6-838f-c7497f8c669a" configVersion="882de020e7df5cd264dff5a68f32e16d33312e44"/>
+		<Metadata name="DefinedType.ТорговыйОбъектЕГАИС" id="f0d7edce-2006-48e5-a63d-67c9a1a7b139" configVersion="28e607c253b0bb615626b228f13e93a7bc632611"/>
+		<Metadata name="DefinedType.Упаковка" id="8abfa700-e7c5-4172-b211-3d9d4f697f08" configVersion="3d6bb1f9e14bff698faecdddf219a94b23928059"/>
+		<Metadata name="DefinedType.ХарактеристикаНоменклатуры" id="533f6ca7-ef4a-4664-9304-d268b95ef460" configVersion="557142c2bfa5fcd2583b90fb644f17c7e4f89a06"/>
+		<Metadata name="Document.АктПостановкиНаБалансЕГАИС" id="e5e6eaf2-a1b5-4ced-8b21-e25be7addb28" configVersion="d572faebcc3331f769734433166dc9ad2f70ffb6"/>
+		<Metadata name="Document.АктПостановкиНаБалансЕГАИС.ManagerModule" id="e5e6eaf2-a1b5-4ced-8b21-e25be7addb28.2" configVersion="ae6701c92b9b072aacc4f2b1a66975c5b3f2528a"/>
+		<Metadata name="Document.АктПостановкиНаБалансЕГАИС.ObjectModule" id="e5e6eaf2-a1b5-4ced-8b21-e25be7addb28.0" configVersion="501c53dc970236aaabf2f2aad44bfd592205b0f6"/>
+		<Metadata name="Document.АктСписанияЕГАИС" id="5a9505cb-4b8d-4b47-a06f-01803b707949" configVersion="97bc2a2f593d03b474dd61edcb5a1519931af8b8">
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ДатаРегистрацииДвижений" id="0004a6fb-177a-48c4-99bf-6b8c8d94af82"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Сумма" id="03c8f1ea-05a6-4044-b0f9-fd174da3746c"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары" id="03e50db8-17fb-40bb-ac5c-197ef9dcf27e"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Номенклатура" id="048b66fc-6c63-4963-a3c2-a3ff57dacdb2"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.ИдентификаторСтроки" id="1bca140a-0856-491a-a805-441f57aa1b46"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Серия" id="23b9f513-b779-4c0d-819a-ac5719bf4d1b"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ВидДокумента" id="3824b770-3276-4463-afa5-fb37f4b3ecfb"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ОрганизацияЕГАИС" id="3ee81b8e-cdd5-46af-8958-69ed499c004e"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ПричинаСписания" id="462e52d9-acf3-43d2-b620-d1d8d126bb7d"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.СтатусУказанияСерий" id="52bfc70b-db4f-4d2b-8e40-2c0e2ef6c6ee"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Упаковка" id="52e6381e-8390-410f-9053-ff25767eb63f"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.СтатусПроверкиИПодбора" id="7938b42f-c6e7-4323-bdc6-cc9fa611d948"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.КоличествоУпаковок" id="7cc3ea1a-be1b-42c5-a00f-b21e6c4b7315"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ТорговыйОбъект" id="8253f69e-30df-4847-b0b7-c2f4709c34d2"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.Ответственный" id="883fd781-7e0b-4e7c-96cf-bebd29c68b3a"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Цена" id="8a905ab2-78dc-4379-8577-2ef5dd1e2b45"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.Комментарий" id="8d91ab27-56ef-451a-a2f8-1be503d2bb5a"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.Идентификатор" id="9253035a-4194-449b-80ac-c1b80f992c32"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Характеристика" id="93731d7e-f4fd-4b44-931c-c7381d747f5d"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Справка2" id="a42ee777-2585-4b4d-91be-0c6f58f4920b"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.Количество" id="ac31c990-ffea-4728-9613-16545d83cb17"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.Организация" id="c88313f5-42e5-4645-91fb-b788c13437d5"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ДокументОснование" id="d04ede7c-b282-4878-8cce-e68298468a7f"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ДанныеПроверкиИПодбора" id="d0fdd6ef-c5d8-4db2-ac6a-d30850465423"/>
+			<Metadata name="Document.АктСписанияЕГАИС.TabularSection.Товары.Attribute.АлкогольнаяПродукция" id="ef40c94e-0ce6-4aff-bf29-0da22ce52828"/>
+			<Metadata name="Document.АктСписанияЕГАИС.Attribute.ИдентификаторЕГАИС" id="fba69208-7885-4c9e-bf5a-33ac26f08b0e"/>
+		</Metadata>
+		<Metadata name="Document.АктСписанияЕГАИС.ManagerModule" id="5a9505cb-4b8d-4b47-a06f-01803b707949.2" configVersion="7bf5df959ff39b9cf585de93cf63dd854be94fca"/>
+		<Metadata name="Document.АктСписанияЕГАИС.ObjectModule" id="5a9505cb-4b8d-4b47-a06f-01803b707949.0" configVersion="9f41c064076a216ce96fda8be2eef1173a27564d"/>
+		<Metadata name="Document.ОстаткиЕГАИС" id="af9c985a-d258-48f3-926b-d0ef2b4b9d0e" configVersion="68959af0d6ac3b3ec7e750d7ad3c7596b06aa68e">
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.ОстаткиПоДаннымЕГАИС" id="0e19333f-7c7f-47dc-89fc-0ca74f93a506"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.ОрганизацияЕГАИС" id="16279978-3960-47f4-9537-8158ac69bfa4"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.ОстаткиПоДаннымЕГАИС.Attribute.Количество" id="37ca3fe0-f204-4454-9f54-8a66b3f752d8"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.КорректировкаОстатков.Attribute.Справка2" id="3a3c912d-6c16-4e76-b268-2af089cff718"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.Комментарий" id="527b2817-2426-47ab-ad93-f87ef8e3713f"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.Ответственный" id="53f18e3b-27c7-4aa1-98f6-4db029fd9687"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.УдалитьСтатусОбработки" id="58c511b3-4619-4cbf-911d-4a4488c02716"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.ОстаткиПоДаннымЕГАИС.Attribute.АкцизнаяМарка" id="611d6da3-0a62-4e99-922a-647aea25057d"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.ОстаткиПоДаннымЕГАИС.Attribute.Справка2" id="6c48f88c-b5ac-4812-aa95-c764e5f49713"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.ВидДокумента" id="8b5661e9-97fa-4593-b479-309dce6266d0"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.КорректировкаОстатков.Attribute.АлкогольнаяПродукция" id="a0100c1e-f106-45fe-80a8-f1e3ea8427c8"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.КорректировкаОстатков" id="a2c116ec-6ed7-441e-98f6-42a5f99c9d04"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.КорректировкаОстатков.Attribute.Количество" id="a725ef6a-055a-455e-b4b4-c5641bfec049"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.ТорговыйОбъект" id="c190e29b-043a-4531-abfc-d8ac15c72354"/>
+			<Metadata name="Document.ОстаткиЕГАИС.TabularSection.ОстаткиПоДаннымЕГАИС.Attribute.АлкогольнаяПродукция" id="cb168332-cb92-4680-8b00-ad2c9aa8b131"/>
+			<Metadata name="Document.ОстаткиЕГАИС.Attribute.Организация" id="d3f7d944-ee31-4411-b6e4-88e04ca97099"/>
+		</Metadata>
+		<Metadata name="Document.ОстаткиЕГАИС.Form.ФормаДокумента" id="1b81e374-1e3a-4543-b38a-1aa4bc33c3ee" configVersion="087594f8642c441a0d325c6947f8090d26e6fa0b"/>
+		<Metadata name="Document.ОстаткиЕГАИС.Form.ФормаДокумента.Form" id="1b81e374-1e3a-4543-b38a-1aa4bc33c3ee.0" configVersion="8475c95271ebd2c9cf7b2ff679eebf650d5dbd4d"/>
+		<Metadata name="Document.ОстаткиЕГАИС.ManagerModule" id="af9c985a-d258-48f3-926b-d0ef2b4b9d0e.2" configVersion="6d2ec83b602eaa3ace057d63899f634a82f6caa5"/>
+		<Metadata name="Document.ОстаткиЕГАИС.ObjectModule" id="af9c985a-d258-48f3-926b-d0ef2b4b9d0e.0" configVersion="720e35b1f2d41981be1fce1ce8cb80428b96407b"/>
+		<Metadata name="Document.ОтчетОРозничныхПродажах" id="cc5ea725-9ae9-4d08-8c91-77ab6e96c630" configVersion="dd721254c73b858da458c74b210a7d1a00787e22">
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары.Attribute.Сумма" id="306ea30d-a378-4bca-af78-6eff940ffaea"/>
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары" id="54c2001e-85f3-44d4-8f97-98f853317d28"/>
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары.Attribute.Цена" id="7fd7a95c-7d6f-4104-9706-e51c68bd4eab"/>
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары.Attribute.Номенклатура" id="97bd330a-147e-43e8-ad37-216239412582"/>
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары.Attribute.Количество" id="b9dab87d-5302-43f4-bbf8-64d4bfc428d7"/>
+			<Metadata name="Document.ОтчетОРозничныхПродажах.TabularSection.Товары.Attribute.Характеристика" id="c260634b-02fa-417a-ab4b-9cf13b7f1f6b"/>
+		</Metadata>
+		<Metadata name="Document.ОтчетОРозничныхПродажах.ManagerModule" id="cc5ea725-9ae9-4d08-8c91-77ab6e96c630.2" configVersion="ca30ee0ae11c623f5c768c6e975796d69f99205c"/>
+		<Metadata name="Document.ОтчетОРозничныхПродажах.ObjectModule" id="cc5ea725-9ae9-4d08-8c91-77ab6e96c630.0" configVersion="ca30ee0ae11c623f5c768c6e975796d69f99205c"/>
+		<Metadata name="Document.ПередачаВРегистр2ЕГАИС" id="7942d80e-bdbf-4c21-aa86-2ac334430936" configVersion="4b53a326f6aa5a03320680e4a2c1f6e2e171c21e">
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.Комментарий" id="02de2af2-2b67-468e-9fea-c5b2fbb7bb9b"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.АлкогольнаяПродукция" id="17c6b173-6c9f-4e0f-a96f-8658c05803d1"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Серия" id="1f412700-1eed-4dd4-ab36-8c7da14d6970"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.ТорговыйОбъект" id="216d1c49-e812-49ad-96f2-47d6a517a177"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.ДатаРегистрацииДвижений" id="3411883f-ae3a-4d1c-afcb-72b0a64aaa83"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.УдалитьСтатусОбработки" id="505fb222-0b21-4742-8766-806ca6f95ea1"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Справка2" id="63b88d98-16f9-4792-b44f-68c35ca7b30d"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.Организация" id="67633d2e-2d8d-4f3b-ae77-c660389cda0b"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары" id="7bb9aa9b-7f24-496a-947f-5dfc1b60f3d6"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Количество" id="7d98feb5-55db-48b0-9444-0c4d3bb9ebd3"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.СтатусУказанияСерий" id="8e625580-5806-4072-9a85-8a70e7261401"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.ИдентификаторЕГАИС" id="a78a2d90-d341-4246-80a7-37de68102bc5"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.КоличествоУпаковок" id="a7bb9a88-19c3-4de3-a01f-07ac481786ea"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.Идентификатор" id="aeeaac5a-9e38-46c7-be80-1049fa504ddb"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.Ответственный" id="b16b07ff-7adf-450f-b7d6-3f32be369794"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.ДокументОснование" id="b361e36f-f3a1-491e-9f8e-380b78239f0a"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Характеристика" id="bd363cc8-98d6-40b7-a239-9604afbd7835"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Упаковка" id="cfdfe9ad-586b-43a9-aa10-8d2f8b4a9f58"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.Attribute.ОрганизацияЕГАИС" id="d3cf5043-8298-4f11-8a29-764ba312bd59"/>
+			<Metadata name="Document.ПередачаВРегистр2ЕГАИС.TabularSection.Товары.Attribute.Номенклатура" id="f72b2946-7b19-40a7-b6fd-be265097ab95"/>
+		</Metadata>
+		<Metadata name="Document.ПередачаВРегистр2ЕГАИС.ManagerModule" id="7942d80e-bdbf-4c21-aa86-2ac334430936.2" configVersion="8f014fe5423a64a0dba504091813f81fca1734f4"/>
+		<Metadata name="Document.ПередачаВРегистр2ЕГАИС.ObjectModule" id="7942d80e-bdbf-4c21-aa86-2ac334430936.0" configVersion="f98d13c8e053c2264dfa86d55e81de6a9477f407"/>
+		<Metadata name="Enum.ВидыДокументовЕГАИС" id="dcb40cd8-3a2a-49bc-8c6b-3af9934caf14" configVersion="59c43b434414c7e06de6f014003fe82eb8555556">
+			<Metadata name="Enum.ВидыДокументовЕГАИС.EnumValue.ЗапросОстатковВРегистре2" id="bae17778-5e29-468a-aa38-6242e3a0bd60"/>
+			<Metadata name="Enum.ВидыДокументовЕГАИС.EnumValue.АктСписанияИзРегистра2" id="df166b4a-f2cb-4163-82a0-8b07ba9ccb38"/>
+			<Metadata name="Enum.ВидыДокументовЕГАИС.EnumValue.ЗапросОстатковВРегистре1" id="fd2c6b3d-b6d7-4816-b6f4-d0a75edf6caf"/>
+		</Metadata>
+		<Metadata name="Enum.ПричиныСписанийЕГАИС" id="a70d0364-e6a7-4a07-89e2-dc98e97cd214" configVersion="b403927636f4b432f779cc7a9e469d33139d50f2">
+			<Metadata name="Enum.ПричиныСписанийЕГАИС.EnumValue.Реализация" id="19633054-b664-4596-9083-93745e880aed"/>
+		</Metadata>
+		<Metadata name="Enum.СтавкиНДС" id="876df388-ac22-4fb9-a50e-9a79f5e32a45" configVersion="751851c3992d19ed8e292aae33ec8d3a42426e92"/>
+		<Metadata name="Enum.СтатусыОбработкиОстатковЕГАИС" id="2c119789-114b-444a-bf8d-db55bc9a5939" configVersion="9568f45a8a1bb4d88640a2e3fd79657ba664a07e"/>
+		<Metadata name="Enum.СтатусыОбработкиПередачиВРегистр2ЕГАИС" id="e7d60d35-7f6f-43ff-83cf-58ceeae8f6c8" configVersion="8cd30617f734106158a7833a4e97355685476aa0"/>
+		<Metadata name="Enum.СтатусыПроверкиИПодбораИС" id="352b7346-9c82-4375-b7d8-82da005663ac" configVersion="9f1d2ff2fd4bb1a99b9d9db3a34b352bcf563b67"/>
+		<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС" id="772a3e13-b4d5-4c5f-b446-3da6a79cfa23" configVersion="b7a1c9a6a481804fe8ad82df1b9a946581cc6454">
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.Справка2" id="500d0bb5-da83-4906-8a65-5aaa6b28d320"/>
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.Серия" id="55c03cbf-5d40-4224-b9fe-75c1ac66ecb1"/>
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.Характеристика" id="71819eed-157f-4f80-930e-bb75ac475f61"/>
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.АлкогольнаяПродукция" id="a51db9e1-e912-48fe-8af8-290684668ff0"/>
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.ИдентификаторУпаковки" id="c4333f39-1426-4454-85d7-065e5b08dba9"/>
+			<Metadata name="InformationRegister.СоответствиеНоменклатурыЕГАИС.Dimension.Номенклатура" id="f12d483a-702f-405d-8ac3-5f2d3baf7085"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СтатусыДокументовЕГАИС" id="a56e433a-e44b-40fd-84ba-48d64b2298d2" configVersion="2e294d98e0cdbd89e5af5e55bccd277e5313c1d6">
+			<Metadata name="InformationRegister.СтатусыДокументовЕГАИС.Dimension.Документ" id="aa5eb1c8-08c5-4cc5-ae0a-ac71267266f6"/>
+			<Metadata name="InformationRegister.СтатусыДокументовЕГАИС.Resource.Статус" id="eb79eb34-b309-40c4-b805-8947f689f612"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="91718531-e74f-42ec-b140-ca4de560bf86" configVersion="81d85af95a5f7d7363227a315545217368cdd2a3">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="188adf0d-0255-420b-999c-5b518042d62f"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="1e6e1f0c-1aa9-4222-ae49-a97fca28f3bd"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Валюта" id="45257b6b-5987-4337-af49-04a8c0d97ba3"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="db60e813-4227-4af3-a414-2f7b5c8edcb4"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Упаковка" id="f22bf22b-bcf7-462f-92fe-d34bad6a57ff"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Характеристика" id="f359e064-8634-44cb-b974-54533c9ad367"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Штрихкоды" id="078b56e2-bbc6-44cb-866b-b0a620959757" configVersion="25843b0356313b5a42399b7c38ecd469487308ea">
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Штрихкод" id="08d18c3d-30fa-46d3-a312-299d2ab4c52a"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.ТипШтрихкода" id="b81a5c50-a20f-41ad-9dca-1ec2006d6520"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Владелец" id="ba0e875d-6bcd-4cd3-85a7-d6fcd5a1f767"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Характеристика" id="df7ec4bc-e67d-45e3-96d8-22e43b105f43"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Упаковка" id="f35aa5db-9215-4d21-ac51-e51ef68cf21b"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="50ee4574-1f6c-46ac-840e-bb136d4e321d" configVersion="76f47357f94aca68a45cc52766c23d9c0d721cbb"/>
+		<Metadata name="Subsystem.РасшЕГАИС_ПомошникЕГАИС" id="ac38345d-8ecb-4e46-898d-5cbf3a25ec5d" configVersion="9ac130b8bf88200c0a1d5e762a98ccf6a4dce8a4"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

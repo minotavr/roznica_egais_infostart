@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="0162918b-5709-4c05-a515-eb7dda350593">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторОрганизацийЕГАИС" category="Object">
+				<xr:TypeId>c4f52c14-b76f-4844-b264-dbc908031110</xr:TypeId>
+				<xr:ValueId>b67a6fd4-d48e-496d-91e2-757110cf7615</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторОрганизацийЕГАИС" category="Ref">
+				<xr:TypeId>42568b3a-70e6-4857-8f98-403c88e3082b</xr:TypeId>
+				<xr:ValueId>6bed82f4-db35-4f2c-99ec-003a349316a8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторОрганизацийЕГАИС" category="Selection">
+				<xr:TypeId>579f7bdb-6650-43e2-b3f5-6bfe38611519</xr:TypeId>
+				<xr:ValueId>9e1bef00-d7b8-4f1a-901a-3a776f832965</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторОрганизацийЕГАИС" category="List">
+				<xr:TypeId>16b2a731-3149-4f0f-a0c8-b8b8c58ae465</xr:TypeId>
+				<xr:ValueId>3aa6f86f-59ad-456a-bcd0-67323e2cfc69</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторОрганизацийЕГАИС" category="Manager">
+				<xr:TypeId>117a28fb-40b3-4ead-8880-efae95b562bd</xr:TypeId>
+				<xr:ValueId>8dbfbce0-9226-42ad-9777-e86fbae43797</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КлассификаторОрганизацийЕГАИС</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="e879a1fd-bfbb-464e-8e1a-65850a22bf71">
+				<InternalInfo/>
+				<Properties>
+					<Name>ТорговыйОбъект</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.ТорговыйОбъектЕГАИС</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

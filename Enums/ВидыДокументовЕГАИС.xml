@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="dcb40cd8-3a2a-49bc-8c6b-3af9934caf14">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыДокументовЕГАИС" category="Ref">
+				<xr:TypeId>6248fd71-9bb0-4e17-ad8f-69e27d4c2f06</xr:TypeId>
+				<xr:ValueId>0f139ec3-9db0-4f04-a67b-57ca8adf3951</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыДокументовЕГАИС" category="Manager">
+				<xr:TypeId>700eac43-52f3-465a-854c-5476af4cda4d</xr:TypeId>
+				<xr:ValueId>4f7859fa-cc94-4856-a0d9-d5bd8c0b2ccb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыДокументовЕГАИС" category="List">
+				<xr:TypeId>deb9ee6a-4e8c-4a62-8621-6dd18d392a97</xr:TypeId>
+				<xr:ValueId>a9bae9fd-d993-4bb9-850e-59daf702242a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыДокументовЕГАИС</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="fd2c6b3d-b6d7-4816-b6f4-d0a75edf6caf">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЗапросОстатковВРегистре1</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bae17778-5e29-468a-aa38-6242e3a0bd60">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЗапросОстатковВРегистре2</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="df166b4a-f2cb-4163-82a0-8b07ba9ccb38">
+				<InternalInfo/>
+				<Properties>
+					<Name>АктСписанияИзРегистра2</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

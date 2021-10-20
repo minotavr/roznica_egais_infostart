@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="e7d60d35-7f6f-43ff-83cf-58ceeae8f6c8">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СтатусыОбработкиПередачиВРегистр2ЕГАИС" category="Ref">
+				<xr:TypeId>4b3b1864-f806-481a-880a-8d09d27795a6</xr:TypeId>
+				<xr:ValueId>cb448575-af6a-42c7-9456-2476449a450c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СтатусыОбработкиПередачиВРегистр2ЕГАИС" category="Manager">
+				<xr:TypeId>4cb6d9a1-a191-4d37-ae97-936ed49b9399</xr:TypeId>
+				<xr:ValueId>6ffa14c9-9d9f-4508-8cce-037aaec16117</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СтатусыОбработкиПередачиВРегистр2ЕГАИС" category="List">
+				<xr:TypeId>5ab12cf2-aedd-4358-9edc-5685835f90a4</xr:TypeId>
+				<xr:ValueId>16692c58-0f2d-411b-8ad5-ea327b66bb3d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СтатусыОбработкиПередачиВРегистр2ЕГАИС</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>

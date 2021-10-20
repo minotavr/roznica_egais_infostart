@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="c84e02e7-91c9-47f0-b0c6-d55f32d8da4a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Номенклатура" category="Object">
+				<xr:TypeId>d13ff51a-e0ce-4544-8cb5-0953101b0839</xr:TypeId>
+				<xr:ValueId>429076a7-841c-4300-a8c6-2fcfdcb7e6eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Номенклатура" category="Ref">
+				<xr:TypeId>383ac9d5-0ee0-478f-b059-932994026795</xr:TypeId>
+				<xr:ValueId>075d66ee-187f-4eb6-bfe1-ae4917a0d782</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Номенклатура" category="Selection">
+				<xr:TypeId>1269b63e-14f7-4926-93f0-27a3d33be473</xr:TypeId>
+				<xr:ValueId>ea799f5e-388c-44c7-a9d9-9bbd2e34661e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Номенклатура" category="List">
+				<xr:TypeId>148fe037-eaf2-4b70-b218-36775b50fde0</xr:TypeId>
+				<xr:ValueId>78efb7c9-04ff-4555-93d5-49cc5d32980a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Номенклатура" category="Manager">
+				<xr:TypeId>1899eb59-77a1-4b3c-8b81-495096ac52bd</xr:TypeId>
+				<xr:ValueId>a41e77d9-cc07-486e-bed8-b0f20f6df241</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Номенклатура</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="5b111354-a1ce-41d3-a133-0f978e89bc4e">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЕдиницаИзмерения</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.БазовыеЕдиницыИзмерения</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="003a9555-13d6-4de9-8a71-9b464b16fdd2">
+				<InternalInfo/>
+				<Properties>
+					<Name>АлкогольнаяПродукция</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="8f2ac878-e438-4788-bf68-12151ba73750">
+				<InternalInfo/>
+				<Properties>
+					<Name>ВидНоменклатуры</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ВидыНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="a257b645-48f1-4238-891b-8f4e7d3af6dd">
+				<InternalInfo/>
+				<Properties>
+					<Name>ВидАлкогольнойПродукцииЕГАИС</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ВидыАлкогольнойПродукции</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>
